@@ -1,3 +1,4 @@
+
 def deco_m_i(m):
     def m_interno(self):
         print("servimos la comida")
