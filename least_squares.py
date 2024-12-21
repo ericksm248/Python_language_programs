@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+#data collection
 x = np.array([1,2,3,4,5,6,9,17,26,63,100,174,247,321,396,428,582])
 y = np.array([3.3,4.1,5.3,6.5,7.5,8.5,13,21.7,33,77,120,208,295,382,471.5,508,690])
 
